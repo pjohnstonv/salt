@@ -1,4 +1,4 @@
 '*':
 
 'web*':
-  - apache
+  - apache2
