@@ -14,4 +14,4 @@ index_html:
 apache_service:
   service.running:
     - name: apache2
-    - enable: True
+    - enable: true
